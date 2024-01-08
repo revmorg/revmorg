@@ -2,7 +2,7 @@
 - 👀 I’m interested in open source software and the potential for other open sourcing of things like liturgy, prayers, sermon series, and more.
 - 🌱 I’m currently learning a whole lot of things...
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me pastormichael@revm.org
+- 📫 How to reach me: https://revm.org/contact-me/
 
 <!---
 revmorg/revmorg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
